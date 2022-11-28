@@ -1,0 +1,67 @@
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\appsettings.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Prosjekt Data monitoring.staticwebassets.runtime.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Prosjekt Data monitoring.exe
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Prosjekt Data monitoring.deps.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Prosjekt Data monitoring.runtimeconfig.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Prosjekt Data monitoring.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Prosjekt Data monitoring.pdb
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.csproj.AssemblyReference.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.AssemblyInfoInputs.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.AssemblyInfo.cs
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.csproj.CoreCompileInputs.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.RazorAssemblyInfo.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.RazorAssemblyInfo.cs
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\scopedcss\bundle\Prosjekt Data monitoring.styles.css
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\scopedcss\projectbundle\Prosjekt Data monitoring.bundle.scp.css
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\refint\Prosjekt Data monitoring.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.pdb
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.genruntimeconfig.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\ref\Prosjekt Data monitoring.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\obj\Debug\net6.0\Prosjekt Data monitoring.csproj.CopyComplete
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Prosjekt Data monitoring\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

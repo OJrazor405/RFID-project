@@ -1,0 +1,19 @@
+﻿@page
+@model Prosjekt_Data_monitoring.Pages.DeleteUserModel
+@{
+    Layout = "_LayoutUserPage";
+    ViewData["Title"] = "Delete user";
+}
+
+<form name="deleteUserForm" id="deleteUserForm" method="post">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="inputUserId">Choose user to delete</label>
+                <input type="number" min="1" class="form-control" name="inputUserId" placeholder="User ID" required autofocus />
+                <br />
+                <input class="btn btn-outline-dark" type="submit" value="Delete user" />
+            </div>
+        </div>
+    </div>
+</form>

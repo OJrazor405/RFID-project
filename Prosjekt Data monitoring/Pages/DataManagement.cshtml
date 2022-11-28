@@ -1,0 +1,22 @@
+﻿@page
+@model Prosjekt_Data_monitoring.Pages.DataManagementModel
+@{
+    Layout = "_LayoutUserPage";
+    ViewData["Title"] = "Data Management App";
+}
+
+<form name="managementForm" id="managementForm" method="post">
+    <div class="container">
+        <div class="row">
+            <h3>Choose operation</h3>
+            <div class="col-sm-3">
+                <a asp-area="" asp-page="/CreateNewUser" class="btn btn-outline-dark">Create new user</a>
+                <br /><br />
+                <a asp-area="" asp-page="/ChooseUserToEdit" class="btn btn-outline-dark">Edit user</a>
+                <br /><br />
+                <a asp-area="" asp-page="/DeleteUser" class="btn btn-outline-dark">Delete user</a>
+            </div>
+        </div>
+    </div>
+
+</form>

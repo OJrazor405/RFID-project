@@ -1,0 +1,51 @@
+﻿@page
+@model IndexModel
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Home page";
+}
+
+
+<h1 class="text-center">Project WEB applications</h1>
+<br />
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h3>Resources used in the project:</h3>
+            <div class="row">
+                <div class="col-sm-4">
+                    <p>Cardreader:</p>
+                    <img src="images/hf_desktop_reader_neo2-1-600x571.png" class="" alt="Picture of cardreader" width="200" />
+                    <br />
+                    <a href="https://en.idtronic-rfid.com/rfid-readers/rfid-hf-readers/desktop-reader-neo-2/" target="_blank">Desktop reader NEO-2</a>
+                </div>
+                <div class="col-sm-4">
+                    <p>Visual Studio 2022:</p>
+                    <img src="images/Visual_Studio_Icon_2019.svg.png" class="rounded float-sm-none" alt="VS logo" width="189" />
+                    <br />
+                    <a href="https://visualstudio.microsoft.com/vs/" target="_blank">VS 2022 home page</a>
+                </div>
+                <div class="col-sm-4">
+                    <p>SSMS:</p>
+                    <img src="images/logo.png" class="" alt="SQL logo" height="190" />
+                    <br />
+                    <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">
+                        What is SSMS?
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <h3>Link to WEB-applications site:</h3>
+        <div class="col">
+            <a asp-area="" asp-page="/Login" class="btn btn-outline-dark">User login</a>
+
+            <a asp-area="" asp-page="/DemoUserPage" class="btn btn-outline-dark">DEMO USER</a>
+        </div>
+    </div>
+</div>
+

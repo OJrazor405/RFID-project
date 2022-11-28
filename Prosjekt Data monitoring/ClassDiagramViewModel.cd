@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prosjekt_Data_monitoring.Pages.ChooseUserToEditModel">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\ChooseUserToEdit.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Pages.CreateNewUserModel">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAIgAAA=</HashCode>
+      <FileName>Pages\CreateNewUser.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Pages.DataManagementModel">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\DataManagement.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Pages.DataMonitoringModel">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAABgAAAAAAAAAAAAAAAAAAAAAIAAAAAAEAAAAgAAA=</HashCode>
+      <FileName>Pages\DataMonitoring.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Pages.DeleteUserModel">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAgAAA=</HashCode>
+      <FileName>Pages\DeleteUser.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Pages.UserPageModel">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\DemoUserPage.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Pages.EditUserModel">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAUAAAAgAQA=</HashCode>
+      <FileName>Pages\EditUser.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Pages.IndexModel">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\Index.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Pages.LoginModel">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAUAAAAgAQA=</HashCode>
+      <FileName>Pages\Login.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

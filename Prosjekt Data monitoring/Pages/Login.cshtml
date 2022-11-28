@@ -1,0 +1,27 @@
+﻿@page
+@model Prosjekt_Data_monitoring.Pages.LoginModel
+@{
+    Layout = "_LayoutLogin";
+    ViewData["Title"] = "Login";
+}
+
+<form name="formLogin" id="formLogin" method="post">
+    <div>
+        <h1 class="text-center">Login</h1>
+        <br />
+        <div class="col-sm-3 mx-auto">
+            <input type="text" id="inputUserId" name="inputUserId" class="form-control" placeholder="User ID" required="" autofocus />
+        </div>
+        <br />
+        <div class="col-sm-3 mx-auto">
+            <input type="password" id="inputPassword" name="inputPassword" class="form-control" placeholder="Password" required="" />
+        </div>
+        <br />
+        <p class="text-center">@ViewData["loginError"]</p>
+        <br />
+        <div class="col-sm-3 mx-auto">
+            <input type="submit" class="btn btn-outline-dark" value="Login" name="btnLogin"/>
+        </div>
+        <br />
+    </div>
+</form>

@@ -1,0 +1,27 @@
+﻿@page
+@model Prosjekt_Data_monitoring.Pages.UserPageModel
+@{
+    Layout = "_LayoutUserPage";
+    ViewData["Title"] = "Userpage";
+}
+
+<h1 class="text-center">Project WEB applications</h1>
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4 mx-auto">
+            <h3>Data Monitoring App</h3>
+                <a asp-area="" asp-page="/DataMonitoring">
+                    <input type="button" class="btn btn-outline-dark" value="Data Monitoring App" />
+                </a>
+        </div>
+        <div class="col-sm-4 mx-auto">
+            <h3>Data Management App</h3>
+            <a asp-area="" asp-page="/DataManagement">
+                <input type="button" class="btn btn-outline-dark" value="Data Management App" />
+            </a>
+        </div>
+    </div>
+</div>
+
+

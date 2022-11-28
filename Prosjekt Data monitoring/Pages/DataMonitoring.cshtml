@@ -1,0 +1,45 @@
+﻿@page
+@model Prosjekt_Data_monitoring.Pages.DataMonitoringModel
+@{
+    Layout = "_LayoutUserPage";
+    ViewData["Title"] = "Data Monitoring App";
+}
+
+<form class="form-control" method="post" action="">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <select class="btn btn-outline-dark" name="Choice">
+                    <option value="showUserLogin">Show loginlog</option>
+                    <option value="showAccessLog">Show accesslog</option>
+                </select>
+                <input type="submit" class="btn btn-outline-dark" value="Select" />
+            </div>
+        </div>
+    </div>
+    <br /><br />
+    <div>
+        <table class="table table-dark table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">User ID</th>
+                    <th scope="col">Timestamp</th>
+                    <th scope="col">First name</th>
+                    <th scope="col">Last name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var data in Model.dataToBeShown)
+                {
+                    <tr>
+                        <td>@data.UserId</td>
+                        <td>@data.TimeStamp</td>
+                        <td>@data.FirstName</td>
+                        <td>@data.LastName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</form>
+

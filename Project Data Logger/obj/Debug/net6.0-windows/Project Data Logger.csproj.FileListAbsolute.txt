@@ -1,0 +1,25 @@
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\Project Data Logger.exe
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\Project Data Logger.dll.config
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\Project Data Logger.deps.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\Project Data Logger.runtimeconfig.json
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\Project Data Logger.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\Project Data Logger.pdb
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.csproj.AssemblyReference.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.csproj.GenerateResource.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.AssemblyInfoInputs.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.AssemblyInfo.cs
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.csproj.CoreCompileInputs.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.csproj.CopyComplete
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\refint\Project Data Logger.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.pdb
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project Data Logger.genruntimeconfig.cache
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\ref\Project Data Logger.dll
+C:\Users\ole_h\OneDrive\Dokumenter\OLE JØRGEN HAGEN\SKOLE\Objektorientert programmering 2\Prosjekt\Project Data Logger\obj\Debug\net6.0-windows\Project_Data_Logger.LoggerUI.resources

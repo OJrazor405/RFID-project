@@ -1,0 +1,43 @@
+﻿@page
+@model Prosjekt_Data_monitoring.Pages.EditUserModel
+@{
+    Layout = "_LayoutUserPage";
+    ViewData["Title"] = "Edit user";
+}
+
+<form name="editUserForm" id="editUserForm" method="post">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="inputUserId">User ID:</label>
+                <input type="number" readonly class="form-control" name="inputUserId" placeholder="User ID" value="@Model.user.UserId" required="" />
+                <br />
+                <label for="inputPassword">Password:</label>
+                <input type="password" class="form-control" name="inputPassword" placeholder="Password" value="@Model.user.Password" required="" />
+                <br />
+                <label for="inputCardCode">Access card:</label>
+                <input type="text" class="form-control" name="inputCardCode" placeholder="Access card" value="@Model.user.CardCode.Trim()" required="" />
+                <br />
+                <label for="inputAccessLevel">Accesslevel: Basic = 1, Master = 2</label>
+                <input type="number" max="2" min="1" class="form-control" name="inputAccessLevel" placeholder="Accesslevel" value="@Model.user.AccessLevel" required="" />
+                <br />
+                <label for="inputFirstName">First name:</label>
+                <input type="text" class="form-control" name="inputFirstName" placeholder="First name" value="@Model.user.FirstName.Trim()" required="" />
+                <br />
+                <label for="inputLastName">Last name:</label>
+                <input type="text" class="form-control" name="inputLastName" placeholder="Last name" value="@Model.user.LastName.Trim()" required="" />
+                <br />
+                <label for="inputPhoneNumber">Phone number:</label>
+                <input type="number" class="form-control" name="inputPhoneNumber" placeholder="Phone number" value="@Model.user.PhoneNumber" required="" />
+                <br />
+                <label for="inputAddress">Address:</label>
+                <input type="text" class="form-control" name="inputAddress" placeholder="Address" value="@Model.user.Address.Trim()" required="" />
+                <br />
+                <label for="inputPostalCode">Postal code:</label>
+                <input type="number" class="form-control" name="inputPostalCode" placeholder="Postal code" value="@Model.user.PostalCode" required="" />
+                <br />
+                <input class="btn btn-outline-dark" type="submit" value="Edit user" />
+            </div>
+        </div>
+    </div>
+</form>

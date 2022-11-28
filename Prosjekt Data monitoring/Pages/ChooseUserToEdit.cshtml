@@ -1,0 +1,19 @@
+﻿@page
+@model Prosjekt_Data_monitoring.Pages.ChooseUserToEditModel
+@{
+    Layout = "_LayoutUserPage";
+    ViewData["Title"] = "Edit user";
+}
+
+<form name="chooseUserForm" id="chooseUserForm" method="post">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="inputUserId">Choose user to edit</label>
+                <input type="number" min="1" class="form-control" name="inputUserId" placeholder="User ID" required autofocus />
+                <br />
+                <input class="btn btn-outline-dark" type="submit" value="Edit user" />
+            </div>
+        </div>
+    </div>
+</form>

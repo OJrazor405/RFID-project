@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prosjekt_Data_monitoring.Models.BasicUser">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BasicUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Models.DemoUser">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DemoUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Models.MasterUser">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MasterUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Models.SqlQuery">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAkIgAAAIAAAAAIEAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\SqlQuery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prosjekt_Data_monitoring.Models.User">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAECAAAACAAAAIAAAQAgAAAAAAAECAAAAAgAAAAg=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Prosjekt_Data_monitoring.Models.ISqlMethods">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAkAgAAAIAAAAAIEAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\ISqlMethods.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
