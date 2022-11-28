@@ -11,6 +11,7 @@ namespace Project_Data_Logger
 {
     internal abstract class SqlQuery : ISqlMethods
     {
+        //Get connection string with IConfigurtion
         public string connectionStrings = ConfigurationManager.ConnectionStrings["conProsjekt_245031"].ConnectionString;
 
         public bool CheckAccessAndLog(string cardCode)
